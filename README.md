@@ -1,0 +1,2 @@
+# AllegroSearch
+ Allegro search algorithm
